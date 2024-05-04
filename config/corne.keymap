@@ -12,9 +12,9 @@
         compatible = "zmk,combos";
 
         two-thumbs {
-            bindings = <&lt 4 LG(SPACE)>;
+            bindings = <&lt 3 LG(SPACE)>;
             key-positions = <38 39>;
-            layers = <0 3 1>;
+            layers = <0 1 2>;
         };
 
         jk-esc {
