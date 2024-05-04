@@ -67,7 +67,7 @@
             bindings = <
 &kp GRAVE  &kp EXCL        &trans           &kp HASH          &trans             &trans       &kp CARET      &trans         &kp ASTRK    &trans      &trans       &kp TILDE
 &kp PIPE   &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp COMMA    &kp SEMICOLON  &kp AMPERSAND  &kp PERCENT  &kp DOLLAR  &kp AT_SIGN  &kp BACKSLASH
-&trans     &trans          &trans           &trans            &trans             &mkp MB6     &mkp MB7       &trans         &trans       &trans      &trans       &trans
+&trans     &kp HOME        &kp END          &kp PAGE_UP       &kp PAGE_DOWN      &mkp MB6     &mkp MB7       &trans         &trans       &trans      &trans       &trans
                                             &trans            &trans             &trans       &trans         &trans         &trans
             >;
         };
